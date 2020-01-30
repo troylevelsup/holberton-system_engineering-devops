@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir -p welcome/to/holberton echo -e "/n"     
-
+mkdir -p welcome/to/holberton && echo ''
