@@ -1,2 +1,2 @@
 #!/bin/bash
-grep'[a-z].*[A-Z]|[A-Z].*[a-z]'
+grep '[a-z]*' /etc/ssh/ssh_config
